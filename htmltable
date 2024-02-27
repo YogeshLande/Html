@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="black">
+        <caption>Student Details</caption>
+        <tr>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Roll NO</th>
+            <th>Branch</th>
+            <th>Year</th>
+            <th>College name</th>
+            <th>Village Name</th>
+        </tr>
+        <tr>
+            <td>Yogesh</td>
+            <td>Lande</td>
+            <td>32</td>
+            <td>E&TC</td>
+            <td>TE</td>
+            <TD>BSCOER</TD>
+            <TD>Ghatsawali</TD>
+        </tr>
+        <tr>
+            <td>Shubham</td>
+            <td>Dhas</td>
+            <td>15</td>
+            <td>E&TC</td>
+            <TD>TE</TD>
+            <TD>BSCOER</TD>
+            <td>Mulukwadi</td>
+        </tr>
+        <tr>
+            <td>Tejas</td>
+            <td>Thorat</td>
+            <td>55</td>
+            <td>E&TC</td>
+            <TD>TE</TD>
+            <TD>BSCOER</TD>
+            <td>Malthan</td>
+        </tr>
+        <tr>
+            <td>Shreyas</td>
+            <td>Chaughule</td>
+            <td>64</td>
+            <td>E&TC</td>
+            <TD>TE</TD>
+            <TD>PVPIT</TD>
+            <td>Anur</td>
+        </tr>
+        <tr>
+            <td>Rushikesh</td>
+            <td>Kathar</td>
+            <td>73</td>
+            <td>E&TC</td>
+            <TD>TE</TD>
+            <TD>BSCOER</TD>
+            <td>Sambhajinagar</td>
+        </tr>
+        <tr>
+            <td>Sandesh</td>
+            <td>Ugale</td>
+            <td>11</td>
+            <td>CS</td>
+            <TD>TE</TD>
+            <TD>BSCOER</TD>
+            <td>Akole</td>
+        </tr>
+    </table>
+</body>
+</html>
