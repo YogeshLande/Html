@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <label>
+        username:
+        <input type="text" placeholder="Enter Username"/>
+    </label>
+    <br>
+    <label>
+        Passward
+        <input type="Passward" placeholder="Passward"/>
+    </label>
+    <br>
+    <button type="Submit">Submit</button>
+    <br>
+    <button type="reset">Reset</button>
+</form>
+<br>
+<form type="https://www.youtube.com/results?search_query=apple" >
+    <input type="text" placeholder="Search in Youtube" name="search_query">
+    <button> Search</button>
+    <hr>
+</form>
+<form>
+    <label>
+        Enter Username : 
+    <input type="text" placeholder="enter username">
+    </label>
+</form>
+ 
+</body>
+</html>
