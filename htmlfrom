@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/action"> 
+         <h1>Log in Details</h1>
+        Todays Date
+        <input type="date">
+        <br>
+        Time
+        <input type="time">
+        <br>
+        Contact No
+        <input type="number">
+        <br>
+        Color
+        <input type="color">
+        <br>
+        User Name
+        <input type="Text" placeholder="Enter username">
+        <br>
+        Passward
+        <input type="password" placeholder="Enter Passward">
+        <h1><b>&hearts;</b></h1>
+        <hr>
+    </form>
+</body>
+</html>
