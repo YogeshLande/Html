@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        Chose your favourite Fruit :  
+        
+        <input type="radio" name="fruit"id="apple">
+        <label for="apple">Apple</label>
+
+        <input type="radio" name="fruit"id="Banana">
+        <label for="Banana">Banana</label>
+
+        <input type="radio" name="fruit"id="Mango">
+        <label for="Mango">Mango</label>
+
+        <hr>
+        Choose Your Favourite PornStar : 
+        
+        <input type="radio" name="Milk"id="Danny">
+        <label for="Danny">Danny</label>
+
+        <input type="radio" name="Milk"id="SunnyLeone">
+        <label for="SunnyLeone">SunnyLeone</label>
+
+        <input type="radio" name="Milk"id="AlyxStar">
+        <label for="AlyxStar">AlyxStar</label>
+         <hr>
+         Choose Your Profession
+         <select name="Profession" id="Profession">
+            <option>Select your Option</option>
+            <option value="stu">Student</option>
+            <option value="Dev">Developer</option>
+            <option value="Far">Farmer</option>
+            <option value="job">Worker</option>
+            <option value="Bus">Businessman</option>
+         </select>
+         <hr>
+
+         <label for="vol">Select Your Volume</label>
+         <input type="range" id="vol" min="0" max="100" name="volume">
+         <br>
+         <label for="feedback">Give your Feedback</label>
+         <textarea id="feedback" placeholder="Feedback" name="feedback"></textarea>
+         <button>Submit</button>
+
+
+
+
+    </form>
+</body>
+</html>
